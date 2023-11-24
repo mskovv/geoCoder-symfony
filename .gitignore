@@ -1,0 +1,29 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/var
+/.idea
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+
+/_ide_helper.php
+
+###> phpunit/phpunit ###
+/phpunit.xml
+.phpunit.result.cache
+###< phpunit/phpunit ###
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
